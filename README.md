@@ -20,8 +20,8 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
-#### Developed by: PREM KUMAR G
-#### Register number: 212223230158
+#### Developed by: ALLEN JOVETH P
+#### Register number: 212223240007
 ```
 import numpy as np
 import math
@@ -64,3 +64,4 @@ plt.legend(['Regression Line','Data points'])
 
 
 # Output 
+The Program for Correlation and regression for data analysis was executed successfully.
